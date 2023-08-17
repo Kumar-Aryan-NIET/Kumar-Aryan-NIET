@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kumar Aryan</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
-<br>
+<h2 align="center">Hi 👋, I'm Kumar Aryan</h1>
+<!-- <h3 align="center">A passionate fullstack developer from India</h3> -->
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-aryan-niet&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-aryan-niet" /> </p>
 <hr>
-
 <div>
  <div>
   <img src="./assets/haruhiro.png" align="left">
@@ -20,9 +17,9 @@
 
 &nbsp;&#10022; Have understanding in Hindi (native), English (fluent)
 
-&nbsp;&#10022; My current goals is To become Fullstack Web Developer
+&nbsp;&#10022; My current goals is To become **Fullstack Web Developer**
 
-&nbsp;&#10022; Let's talk about Web development And Anime stuff
+&nbsp;&#10022; Let's talk about Web development And __Anime stuff__
 
   </p>
  </div>
