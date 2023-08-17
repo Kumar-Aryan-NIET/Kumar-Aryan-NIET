@@ -10,7 +10,7 @@
 
 <div>
  <div>
-  <img src="./assets/images/haruhiro.png" align="left">
+  <img src="./assets/haruhiro.png" align="left">
   <p align="right">
 
 &nbsp;
