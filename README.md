@@ -29,10 +29,7 @@
 <br>
 <hr>
 <br>
-<div align="center">
-  <img width="1000px" height="auto" src="Add-ons/FSN.gif">
-</div>
-<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <br>
 <p align="left"> 
